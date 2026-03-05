@@ -2,34 +2,34 @@
 title: "Our Terms And Conditions"
 draft: false
 # description
-description: "GPM Mobilite maintains strict ownership over all original content published on this site."
+description: "GPM Mobility maintains strict ownership over all original content published on this site."
 ---
 
 ### **1. General Conditions**
 
-By accessing the website **gp-mobilite.ma**, operated by **GPM Mobilite** (an entity of the **GPM Holding** group, **gp-maroc.ma**), you agree to be bound by these Terms of Use and all applicable laws and regulations. If you do not agree with any of these terms, you are prohibited from using or accessing this site.
+By accessing the website **gp-mobilite.ma**, operated by **GPM Mobility** (an entity of the **GPM Holding** group, **gp-maroc.ma**), you agree to be bound by these Terms of Use and all applicable laws and regulations. If you do not agree with any of these terms, you are prohibited from using or accessing this site.
 
 ### **2. Intellectual Property Rights**
 
-**GPM Mobilite** maintains strict ownership over all original content published on this site.
+**GPM Mobility** maintains strict ownership over all original content published on this site.
 
 * **Proprietary Media:** All high-resolution images, drone footage, and technical documents regarding our solar parks are protected by international copyright laws.
-* **Trademarks:** The logos for **GPM Mobilite**, as well as **GPM Holding**, are the exclusive property of the group. Unauthorized use or reproduction is strictly prohibited.
-* **Technical Documents:** Technical descriptions and project details shared on the site remain the intellectual property of GPM Mobilite.
+* **Trademarks:** The logos for **GPM Mobility**, as well as **GPM Holding**, are the exclusive property of the group. Unauthorized use or reproduction is strictly prohibited.
+* **Technical Documents:** Technical descriptions and project details shared on the site remain the intellectual property of GPM Mobility.
 
 ### **3. Use of External Links**
 
-The **GPM Mobilite** website may contain links to the **GPM Holding** central hub (**gp-maroc.ma**) or other entity sites.
+The **GPM Mobility** website may contain links to the **GPM Holding** central hub (**gp-maroc.ma**) or other entity sites.
 
-* **Redirection:** Once you leave the GPM Mobilite site to visit another domain, you are subject to the specific terms and policies of that page.
-* **Third-Party Content:** GPM Mobilite is not responsible for the availability or accuracy of content hosted on external sites linked from our pages.
+* **Redirection:** Once you leave the GPM Mobility site to visit another domain, you are subject to the specific terms and policies of that page.
+* **Third-Party Content:** GPM Mobility is not responsible for the availability or accuracy of content hosted on external sites linked from our pages.
 
 ### **4. Accuracy of Information**
 
 While we strive for precision, the content on this site - particularly project specifications and solution descriptions - is provided for general informational purposes.
 
 * **Updates:** Technical details and project descriptions are subject to change without notice as developments occur.
-* **Disclaimer:** GPM Mobilite does not warrant that the materials on its website are accurate, complete, or current.
+* **Disclaimer:** GPM Mobility does not warrant that the materials on its website are accurate, complete, or current.
 
 ### **5. Prohibited Conduct**
 

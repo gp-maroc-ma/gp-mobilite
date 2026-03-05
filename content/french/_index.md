@@ -1,8 +1,8 @@
 ---
-title: "GPM Mobilite"
+title: "GPM Mobility"
 draft: false
 # description
-description: "GPM Mobilite"
+description: "GPM Mobility"
 bg_image_webp: "images/backgrounds/project-page-title.jpg"
 bg_image: "images/backgrounds/project-page-title.jpg"
 ---

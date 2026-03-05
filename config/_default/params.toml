@@ -7,8 +7,8 @@ page_sharing_image = "images/backgrounds/page-sharing.jpg"
 # top header
 top_header = false
 # Meta data
-description = "GPM Mobilite "
-author = "GPM Mobilite"
+description = "GPM Mobility "
+author = "GPM Mobility"
 
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io

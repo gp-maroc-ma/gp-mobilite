@@ -8,7 +8,7 @@ weight = 1
 [en.params]
 baseURL = "/"
 home = "Home"
-keywords = ["GPM Mobilite","", "", "", "", "", "", "", "", "", ""]
+keywords = ["GPM Mobility","", "", "", "", "", "", "", "", "", ""]
 
 # contact info
 address = "Corner of Oujda Avenue and Tan-Tan Residence, Perla Offices, 12th Floor, Office No. 60, Tangier"
@@ -27,8 +27,8 @@ consent_allow_all = 'Allow all'
 consent_save_preferences = 'Save preferences'
 
 # footer content
-footer_content = "GPM Mobilite - GPM Mobility applies renewable energy to electric transportation solutions. <br><br>The Green Corridor envisions solar-powered battery swapping infrastructure for electric freight vehicles operating along major transport routes."
-copyright = "Copyright © GPM Mobilite, %s-year All rights reserved"
+footer_content = "GPM Mobility - applies renewable energy to electric transportation solutions. <br><br>The Green Corridor envisions solar-powered battery swapping infrastructure for electric freight vehicles operating along major transport routes."
+copyright = "Copyright © GPM Mobility, %s-year All rights reserved"
 
 
 ################################### French language #####################################
@@ -41,7 +41,7 @@ weight = 2
 [fr.params]
 baseURL = "/fr/"
 home = "Accueil"
-keywords = ["GPM Mobilite","", "", "", "", "", "", "", "", "", ""]
+keywords = ["GPM Mobility","", "", "", "", "", "", "", "", "", ""]
 
 # contact info
 address = "Angle AV Oujda Et TanTan Res, Perla Oficinas 12 Etage Bureau N 60 Tanger"
@@ -60,6 +60,6 @@ consent_allow_all = 'Tout autoriser'
 consent_save_preferences = 'Enregistrer'
 
 # footer content
-footer_content = "GPM Mobilite - GPM Mobility utilise les énergies renouvelables pour alimenter les solutions de transport électrique. <br><br>Le Green Corridor prévoit une infrastructure d'échange de batteries alimentée à l'énergie solaire pour les véhicules de transport de marchandises électriques circulant le long des principaux axes routiers."
+footer_content = "GPM Mobility - utilise les énergies renouvelables pour alimenter les solutions de transport électrique. <br><br>Le Green Corridor prévoit une infrastructure d'échange de batteries alimentée à l'énergie solaire pour les véhicules de transport de marchandises électriques circulant le long des principaux axes routiers."
 # copyright
-copyright = "Copyright © GPM Mobilite, %s-year Tous droits réservés"
+copyright = "Copyright © GPM Mobility, %s-year Tous droits réservés"

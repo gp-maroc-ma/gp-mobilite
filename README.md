@@ -1,5 +1,5 @@
 # gpm-mobilite
-GPM Mobilite 
+GPM Mobility 
 
 gp-mobilite.ma
 
