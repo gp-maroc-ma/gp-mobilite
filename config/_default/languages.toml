@@ -27,7 +27,7 @@ consent_allow_all = 'Allow all'
 consent_save_preferences = 'Save preferences'
 
 # footer content
-footer_content = "GPM Mobilite - "
+footer_content = "GPM Mobilite - GPM Mobility applies renewable energy to electric transportation solutions. <br><br>The Green Corridor envisions solar-powered battery swapping infrastructure for electric freight vehicles operating along major transport routes."
 copyright = "Copyright © GPM Mobilite, %s-year All rights reserved"
 
 
@@ -60,6 +60,6 @@ consent_allow_all = 'Tout autoriser'
 consent_save_preferences = 'Enregistrer'
 
 # footer content
-footer_content = "GPM Mobilite -"
+footer_content = "GPM Mobilite - GPM Mobility utilise les énergies renouvelables pour alimenter les solutions de transport électrique. <br><br>Le Green Corridor prévoit une infrastructure d'échange de batteries alimentée à l'énergie solaire pour les véhicules de transport de marchandises électriques circulant le long des principaux axes routiers."
 # copyright
 copyright = "Copyright © GPM Mobilite, %s-year Tous droits réservés"
